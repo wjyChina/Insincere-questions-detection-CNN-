@@ -5,4 +5,4 @@ The ipynb file is run over the platform Colab.
 
 The data is largely unbalanced. I use two ways to treat it. One is oversampling by repeating the data of smaller number. The other one is using weighted loss function. All the results are shown in the notebook.
 
-The preprocessing part contributed by my partner Gus Yang.
+The preprocessing part is contributed by my partner Gus Yang.
